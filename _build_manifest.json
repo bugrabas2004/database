@@ -1,0 +1,29 @@
+{
+  "counts": {
+    "PRODUCTS": 654,
+    "FRAGRANCE_META": 419,
+    "META_ALIASES": 248
+  },
+  "data_block_hashes": [
+    [
+      "PRODUCTS",
+      "f8200553c3acb51b396f28dc930025a42a16cb9a6929af3b7b6a666f66cbb02e",
+      "f8200553c3acb51b396f28dc930025a42a16cb9a6929af3b7b6a666f66cbb02e",
+      true
+    ],
+    [
+      "FRAGRANCE_META",
+      "1b84aef61c652c0a02b3fe6e7d5b024f571088b44a1c8804a4d9b1fa4ae57537",
+      "1b84aef61c652c0a02b3fe6e7d5b024f571088b44a1c8804a4d9b1fa4ae57537",
+      true
+    ],
+    [
+      "META_ALIASES",
+      "10588d2c2ebccb76244debae19244fa5c4e53fe24c9e390d0ae91ecc94525b98",
+      "10588d2c2ebccb76244debae19244fa5c4e53fe24c9e390d0ae91ecc94525b98",
+      true
+    ]
+  ],
+  "source": "parfum_sorgu_FINAL_SCORING.html",
+  "notes": "Only web-app shell metadata/service worker/manifest/icons were added."
+}
